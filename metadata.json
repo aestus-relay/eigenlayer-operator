@@ -2,6 +2,6 @@
   "name": "aestus",
   "website": "https://aestus.live",
   "description": "A trusted community provider of staking infra.",
-  "logo": "https://github.com/aestus-relay/eigenlayer-operator/blob/main/logo-black-text.png?raw=true",
+  "logo": "https://raw.githubusercontent.com/aestus-relay/eigenlayer-operator/main/logo-black-text.png",
   "twitter": "https://twitter.com/AestusRelay"
 }
